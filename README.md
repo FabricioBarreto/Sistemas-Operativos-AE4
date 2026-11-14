@@ -2,7 +2,7 @@
 
 **Asignatura:** Sistemas Operativos — Universidad de la Cuenca del Plata
 **Sistema operativo analizado:** Linux (Ubuntu 22.04 LTS)
-**Autor:** Fabricio Barreto
+**Integrantes:** Barreto, Fabricio; Benitez Lagraña, Lautaro Agustín; Alvarez, Enzo
 
 ## Descripción
 
