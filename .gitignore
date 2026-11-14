@@ -1,3 +1,10 @@
 venv/
 __pycache__/
 *.png
+*.docx
+*.pdf
+*.xlsx
+*.zip
+Portafolio/
+Bitacora/
+_to_delete/
